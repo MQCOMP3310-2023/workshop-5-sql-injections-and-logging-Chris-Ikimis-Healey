@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[MQCOMP3310-2023/workshop-5-sql-injections-and-logging-Chris-Ikimis-Healey source archive]",
+			"uri": "codeql-zip-archive://1-144/c:\\Users\\Chris Ikimis-Healey\\AppData\\Roaming\\Code\\User\\workspaceStorage\\7819b3643384976128ac005b66abeed0\\GitHub.vscode-codeql\\java\\java\\src.zip"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
